@@ -23,9 +23,9 @@ Detailed Installation Instructions:
 
 Configuration information to configure your own "elegoo.txt" file:
 
-Download latest Config file from Elegoo.com: https://www.elegoo.com/pages/3d-printing-user-support
+- Download latest Config file from Elegoo.com: https://www.elegoo.com/pages/3d-printing-user-support
 
-We recommend using Vistual Studio Code or Notepad++ to edit this config file, NOT your standard Notepad app.
+- We recommend using Vistual Studio Code or Notepad++ to edit this config file, NOT your standard Notepad app.
 
 
 Neptune 2 “Elegoo.txt” Config File Changes for BL-Touch:
