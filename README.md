@@ -79,5 +79,9 @@ Optional: Change the below settings to probe more points across the bed.  This i
 ---------------------------------------------------------------------------------------------------------------
 
 
+Detailed Installation Instructions:
+- How-To YouTube Video: https://youtu.be/7jILw_2lRDw
+- How-To Blog Post: https://www.hotrodhippie.com/post/bl-touch-install-on-elegoo-neptune-2-how-to
+
 
 DISCLAIMER: We recommend you reconfigure YOUR Config file and not use this provided file!  Instructions on how to Reconfigure your own file are available on the YouTube video and Blog post, both linked below. We are NOT RESPONSIBLE for any damage or issues using this file or instructions may cause, USE AT YOUR OWN RISK!
