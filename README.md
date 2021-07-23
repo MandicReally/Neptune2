@@ -17,7 +17,7 @@ File install Procedure:
 
 Detailed Installation Instructions:
 - How-To YouTube Video: https://youtu.be/7jILw_2lRDw
---How-To Blog Post: https://www.hotrodhippie.com/post/bl-touch-install-on-elegoo-neptune-2-how-to
+- How-To Blog Post: https://www.hotrodhippie.com/post/bl-touch-install-on-elegoo-neptune-2-how-to
 
 -----------------------------------------------------------------------------------------------------------
 
