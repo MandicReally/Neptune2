@@ -4,6 +4,8 @@ DISCLAIMER: We recommend you reconfigure YOUR Config file and not use this provi
 
 Config file provided (Config File - READ README FIRST.txt) is for installation of the ANTCLABS BL Touch on the Elegoo Neptune 2 ONLY.
 
+- If you choose to use the pre-configured file, just rename it to "elegoo.txt" and place that on your SD card.  Insert SD Card into an OFF Neptune 2, then turn it on.  Done.
+
 Requires BL Touch Mount (provided Config is for this SPECIFIC mount.):
 
 ---------------------------------------------------------------------------------------------------------------------------------------
